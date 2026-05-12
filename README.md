@@ -127,29 +127,6 @@ The system:
 4. Sends context to the LLM
 5. Generates the final answer
 
----
-
-# Project Structure
-
-```text
-src/
- ├── faq/
- │    ├── faq.controller.ts
- │    ├── faq.service.ts
- │    ├── faq.repository.ts
- │
- ├── rag/
- │    ├── rag.service.ts
- │    ├── embedding.service.ts
- │
- ├── prisma/
- │    ├── prisma.service.ts
-```
-
----
-
-# Installation
-
 ## Clone repository
 
 ```bash
