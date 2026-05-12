@@ -233,21 +233,6 @@ embedding <=> query_embedding
 
 The lower the distance, the more semantically similar the content is.
 
----
-
-# Future Improvements
-
-- Hybrid Search
-- Metadata filtering
-- Chat history memory
-- Multi-tenant support
-- Streaming responses
-- Re-ranking
-- Admin dashboard
-- Redis caching
-
----
-
 # Why This Project?
 
 This project was built to explore:
